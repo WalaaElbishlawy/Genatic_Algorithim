@@ -1,2 +1,2 @@
 # Genatic_Algorithim
-Genetic algorithm for solving the Knapsack Problem
+"C++ Knapsack Problem Solver 🧳  A C++ implementation of a genetic algorithm for solving the Knapsack Problem. Find the optimal item selection within the weight limit."
